@@ -9,7 +9,7 @@ In the data mining portion of project, we used Weka to answer two classification
 
 (Much) more info can be found on the final report, including a general description of the whole project and choices made by the group regarding technology choices and more subtle details such as index choices on the DW.
 
-Technologies used:
+Technologies used:  
 Python  
 JSON  
 SQLAlchemy  
